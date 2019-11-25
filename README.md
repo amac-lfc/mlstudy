@@ -9,3 +9,7 @@
 [ARMA Time Series Model](https://medium.com/auquan/time-series-analysis-for-finance-arma-models-21695e14c999)
 
 [Cool Data Science Projects](https://www.analyticsvidhya.com/blog/2019/07/11-data-science-videos-every-data-scientist-must-watch/)
+
+[Gradiant Boosting Regression Video](https://www.youtube.com/watch?v=2xudPOBz-vs)
+
+[Gradiant Boositng Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
