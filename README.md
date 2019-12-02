@@ -13,3 +13,6 @@
 [Gradiant Boosting Regression Video](https://www.youtube.com/watch?v=2xudPOBz-vs)
 
 [Gradiant Boositng Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
+
+[Gradiant Boosting Full Explination](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
+
