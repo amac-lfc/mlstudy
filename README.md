@@ -1,3 +1,5 @@
+# Links
+
 [Kaggle xgboost](https://www.kaggle.com/alexisbcook/xgboost)
 
 [Decision Tree](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
@@ -16,3 +18,21 @@
 
 [Gradiant Boosting Full Explination](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 
+
+# Projects
+* Install
+* Learn the terminal
+* Import libraries
+* Lists and vectors
+* Regex
+* Tree class (guess the number)
+* Die class (d6+d6=d12)
+* Greedy algorithm
+* Cleaning a data set: compute mean, variance, numpy.where
+* Dictionary
+* Hash table / decoder
+* Beautiful Soup
+* File I/O
+* Recursion algorithm: Factorial, GCD, LCD, Fibonacci
+* Linear Regression
+* Search Algorithms: linear, binary, bubble sort, sort
